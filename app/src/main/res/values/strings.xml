@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="buttonText">FirstButton</string>
+    <string name="textTextView">my text for TextView in second layout</string>
+    <string name="textForCheckbox">checkBox first</string>
+    <string name="textForCheckbox2">checkBox second</string>
+
+
+</resources>
