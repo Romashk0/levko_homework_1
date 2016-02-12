@@ -10,6 +10,6 @@ public class ThirdActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.thirdlayout);
+        setContentView(R.layout.activity_third);
     }
 }
