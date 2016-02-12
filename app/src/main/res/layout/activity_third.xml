@@ -6,12 +6,12 @@
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/chk1"
+        android:id="@+id/chkbx1_AT"
         android:text="@string/textForCheckbox"/>
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/chk2"
+        android:id="@+id/chkbx2_AT"
         android:text="@string/textForCheckbox2"/>
 
 
